@@ -56,6 +56,16 @@ This resource is created by `Ingestion.java` and result can be found in `spark-w
 
 Parts of this schema are ingested through ingestion process into `Asset` schema. If needed, we could pull more details from json responses.
 
+### LastSale
+
+    total_price, string
+    quantity, integer
+    event_timestamp, string
+    event_type, string
+    auction_type, string
+    successful, boolean
+
+Some parts of LastSale were added to `Asset` schema through `ingestion` process. We could pull more details if needed. 
 
 ## Twitter
 
@@ -99,5 +109,21 @@ TODO: Run out of time to implement transactions, the transactions could be pulle
 
 # Design
 
-I created two spark applications, first will ingest data about nft tokens and second will pull data from twitter about coresponding nft collections. We could pull more data about transactions from opensea or other 3rp party api to be able to run som models on data.
+I created two spark applications, first will ingest data about nft tokens and second will pull data from twitter about 
+corresponding nft collections. We could pull more data about transactions from opensea or other 3rp party api to be able
+to run som models on data.
 Outcome csv should be in `spark-warehouse` folders.
+Going to future, we would deploy this app as an AWS stepfunction that could be triggered by events. The AWS step 
+function would consist of java spark jobs (either the 2 that I created in this demo: `Ingestion.java`& 
+`SocialEnrichment.java` ) or we could create more jobs as we need. The spark would run in EMR cluster. EMR cluster is
+hadoop fleet of EC2 instances that work in distributed manner on our jobs and after the jobs are done, then 
+the EMR cluster would be terminated. The output would be stored in s3 buckets as parquet files, so that we can do 
+further processing on our internal data, or create own data warehouse, or we could create athena tables using AWS glue
+for analysis run by Scientists.
+
+PS: There are just so many improvements that we can do with this, so the best would be to have a chat and answer your
+questions directly
+
+
+Best regards,
+Stefan Kecskes
