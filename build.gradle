@@ -46,9 +46,6 @@ dependencies {
     testImplementation("org.mockito:mockito-junit-jupiter:2.23.0")
     testImplementation("org.mockito:mockito-inline:3.11.2")
     testImplementation('org.hamcrest:hamcrest-library:2.2')
-
-
-
 }
 
 task buildZip(type: Zip) {
