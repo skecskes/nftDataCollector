@@ -1,0 +1,2512 @@
+{
+  "assets": [
+    {
+      "id": 85742877,
+      "token_id": "10484",
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://lh3.googleusercontent.com/eDl61Li1LqBqBjGCcMd8stwWCn57JkHEyz2Uj0ZJho1L3zWH-G962T7cOeIfNdcpDFli_ITUlsUlulBot-Oo4uRqh90TR2wbcBr5PQ",
+      "image_preview_url": "https://lh3.googleusercontent.com/eDl61Li1LqBqBjGCcMd8stwWCn57JkHEyz2Uj0ZJho1L3zWH-G962T7cOeIfNdcpDFli_ITUlsUlulBot-Oo4uRqh90TR2wbcBr5PQ=s250",
+      "image_thumbnail_url": "https://lh3.googleusercontent.com/eDl61Li1LqBqBjGCcMd8stwWCn57JkHEyz2Uj0ZJho1L3zWH-G962T7cOeIfNdcpDFli_ITUlsUlulBot-Oo4uRqh90TR2wbcBr5PQ=s128",
+      "image_original_url": "https://ipfs.io/ipfs/QmPiRQ2bU6VwoooGmZ21ntmYshQgdcNNAhdXdZ8ejUvWvk/image.png",
+      "animation_url": null,
+      "animation_original_url": null,
+      "name": "Parallel Masterpiece // Alpha // Battle-hardened Warrior",
+      "description": "Parallel Masterpieces - Alpha Set - Earthen: Battle-hardened Warrior // Art by Dhenzel Obeng // 2021",
+      "external_link": "https://rarible.com/token/0x76be3b62873462d2142405439777e971754e8e77:10484",
+      "asset_contract": {
+        "address": "0x76be3b62873462d2142405439777e971754e8e77",
+        "asset_contract_type": "semi-fungible",
+        "created_date": "2021-02-26T03:34:03.730090",
+        "name": "parallel",
+        "nft_version": null,
+        "opensea_version": null,
+        "owner": 21727865,
+        "schema_name": "ERC1155",
+        "symbol": "LL",
+        "total_supply": null,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "external_link": "http://www.parallel.life",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 1000,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 1250,
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2"
+      },
+      "permalink": "https://opensea.io/assets/0x76be3b62873462d2142405439777e971754e8e77/10484",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/F0z72R7L2uh5wY0LJDdxele-_nWspMcikasWEMRa55mdfi8OmPHU6xy_5X3DRbMTFLQ5X_xQfguKHG3DTrTjdG6U1nkz198gqcgCkUI=s2500",
+        "chat_url": null,
+        "created_date": "2021-03-23T23:07:36.998798",
+        "default_to_fiat": false,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "1000",
+        "discord_url": "https://discord.gg/parallelalpha",
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": "http://www.parallel.life",
+        "featured": false,
+        "featured_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "medium_username": null,
+        "name": "Parallel Alpha",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "require_email": false,
+        "short_description": null,
+        "slug": "parallelalpha",
+        "telegram_url": null,
+        "twitter_username": "parallelnft",
+        "instagram_username": "parallel_nft",
+        "wiki_url": null
+      },
+      "decimals": null,
+      "token_metadata": "https://ipfs.io/ipfs/QmcvYkQw9GDRC2vnKyZFpUnipECAmS9WtidAFniEdvREji",
+      "owner": {
+        "user": {
+          "username": "NullAddress"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+        "address": "0x0000000000000000000000000000000000000000",
+        "config": ""
+      },
+      "sell_orders": [
+        {
+          "created_date": "2021-11-12T01:19:46.083775",
+          "closing_date": "2021-11-15T01:19:13",
+          "closing_extendable": false,
+          "expiration_time": 1636939153,
+          "listing_time": 1636679880,
+          "order_hash": "0x4d577d54a6a0cbdc6687feea6b63d8339e4401bd72e4a7903386786cda8d1dd7",
+          "metadata": {
+            "asset": {
+              "id": "10484",
+              "address": "0x76be3b62873462d2142405439777e971754e8e77",
+              "quantity": "1"
+            },
+            "schema": "ERC1155"
+          },
+          "exchange": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+          "maker": {
+            "user": 1935652,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/18.png",
+            "address": "0x3e1f362ff0d0e31885d08135b29c07bc1409f47c",
+            "config": ""
+          },
+          "taker": {
+            "user": 1766,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+            "address": "0x0000000000000000000000000000000000000000",
+            "config": ""
+          },
+          "current_price": "420000000000000000000.0000000",
+          "current_bounty": "4200000000000000000",
+          "bounty_multiple": "0.01",
+          "maker_relayer_fee": "1250",
+          "taker_relayer_fee": "0",
+          "maker_protocol_fee": "0",
+          "taker_protocol_fee": "0",
+          "maker_referrer_fee": "0",
+          "fee_recipient": {
+            "user": 3585,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/28.png",
+            "address": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+            "config": "verified"
+          },
+          "fee_method": 1,
+          "side": 1,
+          "sale_kind": 0,
+          "target": "0x76be3b62873462d2142405439777e971754e8e77",
+          "how_to_call": 0,
+          "calldata": "0xf242432a0000000000000000000000003e1f362ff0d0e31885d08135b29c07bc1409f47c000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000028f4000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000a00000000000000000000000000000000000000000000000000000000000000000",
+          "replacement_pattern": "0x000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+          "static_target": "0x0000000000000000000000000000000000000000",
+          "static_extradata": "0x",
+          "payment_token": "0x0000000000000000000000000000000000000000",
+          "payment_token_contract": {
+            "id": 1,
+            "symbol": "ETH",
+            "address": "0x0000000000000000000000000000000000000000",
+            "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+            "name": "Ether",
+            "decimals": 18,
+            "eth_price": "1.000000000000000",
+            "usd_price": "4648.739999999999782000"
+          },
+          "base_price": "420000000000000000000",
+          "extra": "0",
+          "quantity": "1",
+          "salt": "5302952146006929733966374167219222921627018258547849940911890976819500035658",
+          "v": 28,
+          "r": "0x5123c49db710bf17a30af9b2f2051555c248ca8fae4060e300cd5d74561b68ad",
+          "s": "0x065e6393ed2dd892ca09280409f3d12142e2d666e285f4e6ca766f036ac62c04",
+          "approved_on_chain": false,
+          "cancelled": false,
+          "finalized": false,
+          "marked_invalid": false,
+          "prefixed_hash": "0x13fa5667176463039b8291ee89a263be31175ad657117379f4dc855d9ca7c7b4"
+        }
+      ],
+      "creator": {
+        "user": {
+          "username": "Parallel"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/3.png",
+        "address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "config": ""
+      },
+      "traits": [
+        {
+          "trait_type": "Rarity",
+          "value": "Prime",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 66,
+          "order": null
+        },
+        {
+          "trait_type": "Class",
+          "value": "Masterpiece",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 47,
+          "order": null
+        },
+        {
+          "trait_type": "Parallel",
+          "value": "Earthen",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 72,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null
+    },
+    {
+      "id": 85742873,
+      "token_id": "10483",
+      "num_sales": 152,
+      "background_color": null,
+      "image_url": "https://lh3.googleusercontent.com/BdAwpfX0E0tDFWUC68E8Ob0WzShqvlJNF7jbvk2MeMhWFq4TcGEX5_qRVZ-vzT9MXXNPw8fV2LmYc49Pa-ABCt8D3xnwvVdc9E78Bw",
+      "image_preview_url": "https://lh3.googleusercontent.com/BdAwpfX0E0tDFWUC68E8Ob0WzShqvlJNF7jbvk2MeMhWFq4TcGEX5_qRVZ-vzT9MXXNPw8fV2LmYc49Pa-ABCt8D3xnwvVdc9E78Bw=s250",
+      "image_thumbnail_url": "https://lh3.googleusercontent.com/BdAwpfX0E0tDFWUC68E8Ob0WzShqvlJNF7jbvk2MeMhWFq4TcGEX5_qRVZ-vzT9MXXNPw8fV2LmYc49Pa-ABCt8D3xnwvVdc9E78Bw=s128",
+      "image_original_url": "https://ipfs.io/ipfs/QmcbjRUPjuTp1z58vi8YUJCh16hvKv1pvoQCpnkvrr4FkQ/image.png",
+      "animation_url": null,
+      "animation_original_url": null,
+      "name": "Battle-hardened Warrior [SE]",
+      "description": "You get hurt. They pick you up and send you back out. Hopefully you learn something in the process.",
+      "external_link": "https://rarible.com/token/0x76be3b62873462d2142405439777e971754e8e77:10483",
+      "asset_contract": {
+        "address": "0x76be3b62873462d2142405439777e971754e8e77",
+        "asset_contract_type": "semi-fungible",
+        "created_date": "2021-02-26T03:34:03.730090",
+        "name": "parallel",
+        "nft_version": null,
+        "opensea_version": null,
+        "owner": 21727865,
+        "schema_name": "ERC1155",
+        "symbol": "LL",
+        "total_supply": null,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "external_link": "http://www.parallel.life",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 1000,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 1250,
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2"
+      },
+      "permalink": "https://opensea.io/assets/0x76be3b62873462d2142405439777e971754e8e77/10483",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/F0z72R7L2uh5wY0LJDdxele-_nWspMcikasWEMRa55mdfi8OmPHU6xy_5X3DRbMTFLQ5X_xQfguKHG3DTrTjdG6U1nkz198gqcgCkUI=s2500",
+        "chat_url": null,
+        "created_date": "2021-03-23T23:07:36.998798",
+        "default_to_fiat": false,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "1000",
+        "discord_url": "https://discord.gg/parallelalpha",
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": "http://www.parallel.life",
+        "featured": false,
+        "featured_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "medium_username": null,
+        "name": "Parallel Alpha",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "require_email": false,
+        "short_description": null,
+        "slug": "parallelalpha",
+        "telegram_url": null,
+        "twitter_username": "parallelnft",
+        "instagram_username": "parallel_nft",
+        "wiki_url": null
+      },
+      "decimals": null,
+      "token_metadata": "https://ipfs.io/ipfs/QmQxHd9Sg5tfL5rwtdueBHdx5qe8LH5hQrnGso4HDPanBD",
+      "owner": {
+        "user": {
+          "username": "NullAddress"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+        "address": "0x0000000000000000000000000000000000000000",
+        "config": ""
+      },
+      "sell_orders": [
+        {
+          "created_date": "2021-11-12T16:08:25.964034",
+          "closing_date": "2021-11-15T16:08:13",
+          "closing_extendable": false,
+          "expiration_time": 1636992493,
+          "listing_time": 1636733199,
+          "order_hash": "0xc62043125236854ec1c81f81aaeb3fcd3d3d5bad7a41dfe44590abc496086288",
+          "metadata": {
+            "asset": {
+              "id": "10483",
+              "address": "0x76be3b62873462d2142405439777e971754e8e77",
+              "quantity": "1"
+            },
+            "schema": "ERC1155"
+          },
+          "exchange": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+          "maker": {
+            "user": 4898083,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/15.png",
+            "address": "0x7c1e2c5a7be846ff410990104f77eb0778cfcb11",
+            "config": ""
+          },
+          "taker": {
+            "user": 1766,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+            "address": "0x0000000000000000000000000000000000000000",
+            "config": ""
+          },
+          "current_price": "34000000000000000.00000000000",
+          "current_bounty": "340000000000000",
+          "bounty_multiple": "0.01",
+          "maker_relayer_fee": "1250",
+          "taker_relayer_fee": "0",
+          "maker_protocol_fee": "0",
+          "taker_protocol_fee": "0",
+          "maker_referrer_fee": "0",
+          "fee_recipient": {
+            "user": 3585,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/28.png",
+            "address": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+            "config": "verified"
+          },
+          "fee_method": 1,
+          "side": 1,
+          "sale_kind": 0,
+          "target": "0x76be3b62873462d2142405439777e971754e8e77",
+          "how_to_call": 0,
+          "calldata": "0xf242432a0000000000000000000000007c1e2c5a7be846ff410990104f77eb0778cfcb11000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000028f3000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000a00000000000000000000000000000000000000000000000000000000000000000",
+          "replacement_pattern": "0x000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+          "static_target": "0x0000000000000000000000000000000000000000",
+          "static_extradata": "0x",
+          "payment_token": "0x0000000000000000000000000000000000000000",
+          "payment_token_contract": {
+            "id": 1,
+            "symbol": "ETH",
+            "address": "0x0000000000000000000000000000000000000000",
+            "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+            "name": "Ether",
+            "decimals": 18,
+            "eth_price": "1.000000000000000",
+            "usd_price": "4648.739999999999782000"
+          },
+          "base_price": "34000000000000000",
+          "extra": "0",
+          "quantity": "1",
+          "salt": "95664062368856400064608267569857755646239066406081797478255289199327363452775",
+          "v": 27,
+          "r": "0x63dac936ad568fa38ec9d64ee0bf65be5b85f4deefa27e3e6aec2392bc6ff9d3",
+          "s": "0x487ccc8cbf3ef8415f20a476d11206b3793a7a413658b5ab67a9880303ed6fea",
+          "approved_on_chain": false,
+          "cancelled": false,
+          "finalized": false,
+          "marked_invalid": false,
+          "prefixed_hash": "0xe76b307e1180752bcbcb2e140a677cf961c60b58817277aaaf9ba30297712a3d"
+        }
+      ],
+      "creator": {
+        "user": {
+          "username": "Parallel"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/3.png",
+        "address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "config": ""
+      },
+      "traits": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 30,
+          "order": null
+        },
+        {
+          "trait_type": "Parallel",
+          "value": "Earthen",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 72,
+          "order": null
+        },
+        {
+          "trait_type": "Class",
+          "value": "SE",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 43,
+          "order": null
+        }
+      ],
+      "last_sale": {
+        "asset": {
+          "token_id": "10483",
+          "decimals": null
+        },
+        "asset_bundle": null,
+        "event_type": "successful",
+        "event_timestamp": "2021-11-12T03:00:43",
+        "auction_type": null,
+        "total_price": "34990000000000000",
+        "payment_token": {
+          "id": 1,
+          "symbol": "ETH",
+          "address": "0x0000000000000000000000000000000000000000",
+          "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+          "name": "Ether",
+          "decimals": 18,
+          "eth_price": "1.000000000000000",
+          "usd_price": "4648.739999999999782000"
+        },
+        "transaction": {
+          "block_hash": "0xc06233c467f26bf14658c669cf8e4c33cc6c3b14129ff2703642d9b054cc8a0f",
+          "block_number": "13598787",
+          "from_account": {
+            "user": {
+              "username": "riverrunpastev1"
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/22.png",
+            "address": "0x55dc2a116bfe1b3eb345203460db08b6bb65d34f",
+            "config": ""
+          },
+          "id": 199083994,
+          "timestamp": "2021-11-12T03:00:43",
+          "to_account": {
+            "user": {
+              "username": "OpenSea-Orders"
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/22.png",
+            "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+            "config": "verified"
+          },
+          "transaction_hash": "0x01e74f59ab1e88bfc3b8bad0af61e50e3e6e12c67db90531d32a601ae832b276",
+          "transaction_index": "452"
+        },
+        "created_date": "2021-11-12T03:01:22.733832",
+        "quantity": "1"
+      },
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null
+    },
+    {
+      "id": 85725490,
+      "token_id": "10482",
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://lh3.googleusercontent.com/8flbAUDJPx2hQ8X-Ahg4OFpQpV9BJV2SJc3I1Mds3NBSAl759SAuWTqt0sEl41SvuNsObxwxid0TaQo-Zkn3crDbBygHItAmhyyEUg",
+      "image_preview_url": "https://lh3.googleusercontent.com/8flbAUDJPx2hQ8X-Ahg4OFpQpV9BJV2SJc3I1Mds3NBSAl759SAuWTqt0sEl41SvuNsObxwxid0TaQo-Zkn3crDbBygHItAmhyyEUg=s250",
+      "image_thumbnail_url": "https://lh3.googleusercontent.com/8flbAUDJPx2hQ8X-Ahg4OFpQpV9BJV2SJc3I1Mds3NBSAl759SAuWTqt0sEl41SvuNsObxwxid0TaQo-Zkn3crDbBygHItAmhyyEUg=s128",
+      "image_original_url": "https://ipfs.io/ipfs/QmU8bU9Am92p2xhKH4wFe9c4vQ3K5M9T53ZHpeKzH3FcCc/image.png",
+      "animation_url": null,
+      "animation_original_url": null,
+      "name": "Battle-hardened Warrior",
+      "description": "You get hurt. They pick you up and send you back out. Hopefully you learn something in the process.",
+      "external_link": "https://rarible.com/token/0x76be3b62873462d2142405439777e971754e8e77:10482",
+      "asset_contract": {
+        "address": "0x76be3b62873462d2142405439777e971754e8e77",
+        "asset_contract_type": "semi-fungible",
+        "created_date": "2021-02-26T03:34:03.730090",
+        "name": "parallel",
+        "nft_version": null,
+        "opensea_version": null,
+        "owner": 21727865,
+        "schema_name": "ERC1155",
+        "symbol": "LL",
+        "total_supply": null,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "external_link": "http://www.parallel.life",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 1000,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 1250,
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2"
+      },
+      "permalink": "https://opensea.io/assets/0x76be3b62873462d2142405439777e971754e8e77/10482",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/F0z72R7L2uh5wY0LJDdxele-_nWspMcikasWEMRa55mdfi8OmPHU6xy_5X3DRbMTFLQ5X_xQfguKHG3DTrTjdG6U1nkz198gqcgCkUI=s2500",
+        "chat_url": null,
+        "created_date": "2021-03-23T23:07:36.998798",
+        "default_to_fiat": false,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "1000",
+        "discord_url": "https://discord.gg/parallelalpha",
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": "http://www.parallel.life",
+        "featured": false,
+        "featured_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "medium_username": null,
+        "name": "Parallel Alpha",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "require_email": false,
+        "short_description": null,
+        "slug": "parallelalpha",
+        "telegram_url": null,
+        "twitter_username": "parallelnft",
+        "instagram_username": "parallel_nft",
+        "wiki_url": null
+      },
+      "decimals": null,
+      "token_metadata": "https://ipfs.io/ipfs/QmT2SrpxUoug1uBqfQJ3GPi714VPkFgZPf7BLn5pYCAQz1",
+      "owner": {
+        "user": {
+          "username": "NullAddress"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+        "address": "0x0000000000000000000000000000000000000000",
+        "config": ""
+      },
+      "sell_orders": null,
+      "creator": {
+        "user": {
+          "username": "Parallel"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/3.png",
+        "address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "config": ""
+      },
+      "traits": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 30,
+          "order": null
+        },
+        {
+          "trait_type": "Class",
+          "value": "First Edition",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 45,
+          "order": null
+        },
+        {
+          "trait_type": "Parallel",
+          "value": "Earthen",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 72,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null
+    },
+    {
+      "id": 85146281,
+      "token_id": "10480",
+      "num_sales": 38,
+      "background_color": null,
+      "image_url": "https://lh3.googleusercontent.com/bmK5kOkYH5pGFzAxAZfBj9UacFFegaPxg-JN-px7eczCJKLx0AGnD_6Bp7002NqZNrs9AGQAK5cZAL6cnhu1rAn-5MYePuQ0xoeAkA",
+      "image_preview_url": "https://lh3.googleusercontent.com/bmK5kOkYH5pGFzAxAZfBj9UacFFegaPxg-JN-px7eczCJKLx0AGnD_6Bp7002NqZNrs9AGQAK5cZAL6cnhu1rAn-5MYePuQ0xoeAkA=s250",
+      "image_thumbnail_url": "https://lh3.googleusercontent.com/bmK5kOkYH5pGFzAxAZfBj9UacFFegaPxg-JN-px7eczCJKLx0AGnD_6Bp7002NqZNrs9AGQAK5cZAL6cnhu1rAn-5MYePuQ0xoeAkA=s128",
+      "image_original_url": "https://ipfs.io/ipfs/QmakK5LtbrWu1B6JMuzu4iWxj2HfmQVpa4Y4HdfXAqk6zk/image.gif",
+      "animation_url": "https://storage.opensea.io/files/d0a2a02bd1bcae7192bbfa4bbf1d6367.mp4",
+      "animation_original_url": "https://ipfs.io/ipfs/QmakK5LtbrWu1B6JMuzu4iWxj2HfmQVpa4Y4HdfXAqk6zk/animation.mp4",
+      "name": "Parallel Logo Collectible Card Back",
+      "description": "Alpha Edition Parallel Logo Collectible Card Back",
+      "external_link": "https://rarible.com/token/0x76be3b62873462d2142405439777e971754e8e77:10480",
+      "asset_contract": {
+        "address": "0x76be3b62873462d2142405439777e971754e8e77",
+        "asset_contract_type": "semi-fungible",
+        "created_date": "2021-02-26T03:34:03.730090",
+        "name": "parallel",
+        "nft_version": null,
+        "opensea_version": null,
+        "owner": 21727865,
+        "schema_name": "ERC1155",
+        "symbol": "LL",
+        "total_supply": null,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "external_link": "http://www.parallel.life",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 1000,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 1250,
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2"
+      },
+      "permalink": "https://opensea.io/assets/0x76be3b62873462d2142405439777e971754e8e77/10480",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/F0z72R7L2uh5wY0LJDdxele-_nWspMcikasWEMRa55mdfi8OmPHU6xy_5X3DRbMTFLQ5X_xQfguKHG3DTrTjdG6U1nkz198gqcgCkUI=s2500",
+        "chat_url": null,
+        "created_date": "2021-03-23T23:07:36.998798",
+        "default_to_fiat": false,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "1000",
+        "discord_url": "https://discord.gg/parallelalpha",
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": "http://www.parallel.life",
+        "featured": false,
+        "featured_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "medium_username": null,
+        "name": "Parallel Alpha",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "require_email": false,
+        "short_description": null,
+        "slug": "parallelalpha",
+        "telegram_url": null,
+        "twitter_username": "parallelnft",
+        "instagram_username": "parallel_nft",
+        "wiki_url": null
+      },
+      "decimals": null,
+      "token_metadata": "https://ipfs.io/ipfs/QmWH5hE2y7ZYy3GYUMnLivtEmkc6q97kpzpPnXhfcKEaRd",
+      "owner": {
+        "user": {
+          "username": "NullAddress"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+        "address": "0x0000000000000000000000000000000000000000",
+        "config": ""
+      },
+      "sell_orders": [
+        {
+          "created_date": "2021-11-13T01:17:20.704061",
+          "closing_date": "2022-05-13T00:17:10",
+          "closing_extendable": false,
+          "expiration_time": 1652401030,
+          "listing_time": 1636766135,
+          "order_hash": "0xebbf9d47ec4accfe24f602e193336c4fe4f79c5651db8961efb17a37189d21ab",
+          "metadata": {
+            "asset": {
+              "id": "10480",
+              "address": "0x76be3b62873462d2142405439777e971754e8e77",
+              "quantity": "1"
+            },
+            "schema": "ERC1155"
+          },
+          "exchange": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+          "maker": {
+            "user": 1332644,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/9.png",
+            "address": "0xa2ecada0b45ad16625865843c9fc5e7c985a2e42",
+            "config": ""
+          },
+          "taker": {
+            "user": 1766,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+            "address": "0x0000000000000000000000000000000000000000",
+            "config": ""
+          },
+          "current_price": "1100000000000000000.000000000",
+          "current_bounty": "11000000000000000",
+          "bounty_multiple": "0.01",
+          "maker_relayer_fee": "1250",
+          "taker_relayer_fee": "0",
+          "maker_protocol_fee": "0",
+          "taker_protocol_fee": "0",
+          "maker_referrer_fee": "0",
+          "fee_recipient": {
+            "user": 3585,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/28.png",
+            "address": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+            "config": "verified"
+          },
+          "fee_method": 1,
+          "side": 1,
+          "sale_kind": 0,
+          "target": "0x76be3b62873462d2142405439777e971754e8e77",
+          "how_to_call": 0,
+          "calldata": "0xf242432a000000000000000000000000a2ecada0b45ad16625865843c9fc5e7c985a2e42000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000028f0000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000a00000000000000000000000000000000000000000000000000000000000000000",
+          "replacement_pattern": "0x000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+          "static_target": "0x0000000000000000000000000000000000000000",
+          "static_extradata": "0x",
+          "payment_token": "0x0000000000000000000000000000000000000000",
+          "payment_token_contract": {
+            "id": 1,
+            "symbol": "ETH",
+            "address": "0x0000000000000000000000000000000000000000",
+            "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+            "name": "Ether",
+            "decimals": 18,
+            "eth_price": "1.000000000000000",
+            "usd_price": "4648.739999999999782000"
+          },
+          "base_price": "1100000000000000000",
+          "extra": "0",
+          "quantity": "1",
+          "salt": "83728153187054769541284023904279863725300271705276392254761575324025460822541",
+          "v": 27,
+          "r": "0xe247b2c5fe8546ce62a1a5e992212eaf7e9fa27e91ea092ed63f2dfe44bde428",
+          "s": "0x3cab6351eb787dae774a1592f6dc3ed51201fca2fb20933734c1a64699ff03bc",
+          "approved_on_chain": false,
+          "cancelled": false,
+          "finalized": false,
+          "marked_invalid": false,
+          "prefixed_hash": "0x64ec523b6571eaae759baf2bc10e519a403a5c37a9f3a437c5780f406e3c3e52"
+        }
+      ],
+      "creator": {
+        "user": {
+          "username": "Parallel"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/3.png",
+        "address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "config": ""
+      },
+      "traits": [
+        {
+          "trait_type": "Rarity",
+          "value": "Prime",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 66,
+          "order": null
+        },
+        {
+          "trait_type": "Parallel",
+          "value": "Universal",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 83,
+          "order": null
+        },
+        {
+          "trait_type": "Class",
+          "value": "Card Back",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 8,
+          "order": null
+        }
+      ],
+      "last_sale": {
+        "asset": {
+          "token_id": "10480",
+          "decimals": null
+        },
+        "asset_bundle": null,
+        "event_type": "successful",
+        "event_timestamp": "2021-11-11T21:54:41",
+        "auction_type": null,
+        "total_price": "1100000000000000000",
+        "payment_token": {
+          "id": 2,
+          "symbol": "WETH",
+          "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "image_url": "https://storage.opensea.io/files/accae6b6fb3888cbff27a013729c22dc.svg",
+          "name": "Wrapped Ether",
+          "decimals": 18,
+          "eth_price": "1.000000000000000",
+          "usd_price": "4653.529999999999745000"
+        },
+        "transaction": {
+          "block_hash": "0x691b3307e72f961f94ceca3b59a50bae3aefc70aa0959441ba4bcbbf741f4ad3",
+          "block_number": "13597423",
+          "from_account": {
+            "user": {
+              "username": "0xF478f261987079538"
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/4.png",
+            "address": "0xf478f2619870795380582e5dd5ce1016cdba3dbe",
+            "config": ""
+          },
+          "id": 198943361,
+          "timestamp": "2021-11-11T21:54:41",
+          "to_account": {
+            "user": {
+              "username": "OpenSea-Orders"
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/22.png",
+            "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+            "config": "verified"
+          },
+          "transaction_hash": "0x1f1973540b0e7da4d837dc9ebfa238cf06e75f77af5836869c0f7448b74ca97b",
+          "transaction_index": "266"
+        },
+        "created_date": "2021-11-11T21:55:06.252922",
+        "quantity": "1"
+      },
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null
+    },
+    {
+      "id": 85146277,
+      "token_id": "10479",
+      "num_sales": 36,
+      "background_color": null,
+      "image_url": "https://lh3.googleusercontent.com/kzTnla5ZqJF8291UrtT0mTQIcUOHKFKESCbCDlG62UZX9jSHsc04T3T0u_uOREcsXGjlfH5Yy53xqn-iO3q8m5Orl5qv8otFWoPx",
+      "image_preview_url": "https://lh3.googleusercontent.com/kzTnla5ZqJF8291UrtT0mTQIcUOHKFKESCbCDlG62UZX9jSHsc04T3T0u_uOREcsXGjlfH5Yy53xqn-iO3q8m5Orl5qv8otFWoPx=s250",
+      "image_thumbnail_url": "https://lh3.googleusercontent.com/kzTnla5ZqJF8291UrtT0mTQIcUOHKFKESCbCDlG62UZX9jSHsc04T3T0u_uOREcsXGjlfH5Yy53xqn-iO3q8m5Orl5qv8otFWoPx=s128",
+      "image_original_url": "https://ipfs.io/ipfs/QmconmTLFgJaspppt5wFvPWDS7pZEs6GQBfySk2KmQfi7x/image.gif",
+      "animation_url": "https://storage.opensea.io/files/3fc0fa9f4ee14731f837019c141ebc14.mp4",
+      "animation_original_url": "https://ipfs.io/ipfs/QmconmTLFgJaspppt5wFvPWDS7pZEs6GQBfySk2KmQfi7x/animation.mp4",
+      "name": "EMP Shockwave Collectible Card Back",
+      "description": "Alpha Edition Collectible EMP Shockwave Card Back",
+      "external_link": "https://rarible.com/token/0x76be3b62873462d2142405439777e971754e8e77:10479",
+      "asset_contract": {
+        "address": "0x76be3b62873462d2142405439777e971754e8e77",
+        "asset_contract_type": "semi-fungible",
+        "created_date": "2021-02-26T03:34:03.730090",
+        "name": "parallel",
+        "nft_version": null,
+        "opensea_version": null,
+        "owner": 21727865,
+        "schema_name": "ERC1155",
+        "symbol": "LL",
+        "total_supply": null,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "external_link": "http://www.parallel.life",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 1000,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 1250,
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2"
+      },
+      "permalink": "https://opensea.io/assets/0x76be3b62873462d2142405439777e971754e8e77/10479",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/F0z72R7L2uh5wY0LJDdxele-_nWspMcikasWEMRa55mdfi8OmPHU6xy_5X3DRbMTFLQ5X_xQfguKHG3DTrTjdG6U1nkz198gqcgCkUI=s2500",
+        "chat_url": null,
+        "created_date": "2021-03-23T23:07:36.998798",
+        "default_to_fiat": false,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "1000",
+        "discord_url": "https://discord.gg/parallelalpha",
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": "http://www.parallel.life",
+        "featured": false,
+        "featured_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "medium_username": null,
+        "name": "Parallel Alpha",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "require_email": false,
+        "short_description": null,
+        "slug": "parallelalpha",
+        "telegram_url": null,
+        "twitter_username": "parallelnft",
+        "instagram_username": "parallel_nft",
+        "wiki_url": null
+      },
+      "decimals": null,
+      "token_metadata": "https://ipfs.io/ipfs/QmRMZovuWieKQuWEdxfHugqQsbgesKgZGY1D1THFM8vghv",
+      "owner": {
+        "user": {
+          "username": "NullAddress"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+        "address": "0x0000000000000000000000000000000000000000",
+        "config": ""
+      },
+      "sell_orders": [
+        {
+          "created_date": "2021-11-12T18:52:57.049904",
+          "closing_date": "2021-11-13T18:52:00",
+          "closing_extendable": false,
+          "expiration_time": 1636829520,
+          "listing_time": 1636743072,
+          "order_hash": "0xbc760f0f1edd822e0690c8f81ae225083727233c8fafafea7533b7bee22b9a4b",
+          "metadata": {
+            "asset": {
+              "id": "10479",
+              "address": "0x76be3b62873462d2142405439777e971754e8e77",
+              "quantity": "1"
+            },
+            "schema": "ERC1155"
+          },
+          "exchange": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+          "maker": {
+            "user": 896448,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/24.png",
+            "address": "0x8217fa68491adc78424a3304596608c2aad7580b",
+            "config": ""
+          },
+          "taker": {
+            "user": 1766,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+            "address": "0x0000000000000000000000000000000000000000",
+            "config": ""
+          },
+          "current_price": "1428000000000000000.000000000",
+          "current_bounty": "14280000000000000",
+          "bounty_multiple": "0.01",
+          "maker_relayer_fee": "1250",
+          "taker_relayer_fee": "0",
+          "maker_protocol_fee": "0",
+          "taker_protocol_fee": "0",
+          "maker_referrer_fee": "0",
+          "fee_recipient": {
+            "user": 3585,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/28.png",
+            "address": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+            "config": "verified"
+          },
+          "fee_method": 1,
+          "side": 1,
+          "sale_kind": 0,
+          "target": "0x76be3b62873462d2142405439777e971754e8e77",
+          "how_to_call": 0,
+          "calldata": "0xf242432a0000000000000000000000008217fa68491adc78424a3304596608c2aad7580b000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000028ef000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000a00000000000000000000000000000000000000000000000000000000000000000",
+          "replacement_pattern": "0x000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+          "static_target": "0x0000000000000000000000000000000000000000",
+          "static_extradata": "0x",
+          "payment_token": "0x0000000000000000000000000000000000000000",
+          "payment_token_contract": {
+            "id": 1,
+            "symbol": "ETH",
+            "address": "0x0000000000000000000000000000000000000000",
+            "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+            "name": "Ether",
+            "decimals": 18,
+            "eth_price": "1.000000000000000",
+            "usd_price": "4648.739999999999782000"
+          },
+          "base_price": "1428000000000000000",
+          "extra": "0",
+          "quantity": "1",
+          "salt": "17058259491382784969638822964888692958450265641114089264474200026892703264741",
+          "v": 27,
+          "r": "0xf59df08dcf4f66579432a50a1711ba94ec629a5c1c3c8d9f51e7ae2a1ae04841",
+          "s": "0x18efae945733b726cb2f2375b8091ef52810da8bdcefa8e487fa50112265930c",
+          "approved_on_chain": false,
+          "cancelled": false,
+          "finalized": false,
+          "marked_invalid": false,
+          "prefixed_hash": "0xf71129fc93caf6fc2a0dff653ac331c7613038eca174fbf75e6bd86097183395"
+        }
+      ],
+      "creator": {
+        "user": {
+          "username": "Parallel"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/3.png",
+        "address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "config": ""
+      },
+      "traits": [
+        {
+          "trait_type": "Rarity",
+          "value": "Prime",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 66,
+          "order": null
+        },
+        {
+          "trait_type": "Parallel",
+          "value": "Universal",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 83,
+          "order": null
+        },
+        {
+          "trait_type": "Class",
+          "value": "Card Back",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 8,
+          "order": null
+        }
+      ],
+      "last_sale": {
+        "asset": {
+          "token_id": "10479",
+          "decimals": null
+        },
+        "asset_bundle": null,
+        "event_type": "successful",
+        "event_timestamp": "2021-11-10T13:15:55",
+        "auction_type": null,
+        "total_price": "1475000000000000000",
+        "payment_token": {
+          "id": 1,
+          "symbol": "ETH",
+          "address": "0x0000000000000000000000000000000000000000",
+          "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+          "name": "Ether",
+          "decimals": 18,
+          "eth_price": "1.000000000000000",
+          "usd_price": "4648.739999999999782000"
+        },
+        "transaction": {
+          "block_hash": "0xa7025831abee1689a72ce141f33164422d8180364dc7d6b4d53718e564927a30",
+          "block_number": "13588679",
+          "from_account": {
+            "user": {
+              "username": "ac53CB"
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/4.png",
+            "address": "0xac53cb23b42c05ab5fe7e3790ecc88fb3a36d4ea",
+            "config": ""
+          },
+          "id": 198080073,
+          "timestamp": "2021-11-10T13:15:55",
+          "to_account": {
+            "user": {
+              "username": "OpenSea-Orders"
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/22.png",
+            "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+            "config": "verified"
+          },
+          "transaction_hash": "0x5f7c79fe7f9c18ef85b8f977d30239803251fb5515b2bce758bb6c1f0303fe8e",
+          "transaction_index": "145"
+        },
+        "created_date": "2021-11-10T13:16:27.049498",
+        "quantity": "1"
+      },
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null
+    },
+    {
+      "id": 85146283,
+      "token_id": "10478",
+      "num_sales": 20,
+      "background_color": null,
+      "image_url": "https://lh3.googleusercontent.com/Gpno1jdx7V3E0rSAsNLgNUPqKOM5Hk7gaC65Isjb9jBlrWs-fsxcp-oYhPB8Hv00mAObP54MHNzzM62K2GnwSnjujpzcApce0uNJ_Ys",
+      "image_preview_url": "https://lh3.googleusercontent.com/Gpno1jdx7V3E0rSAsNLgNUPqKOM5Hk7gaC65Isjb9jBlrWs-fsxcp-oYhPB8Hv00mAObP54MHNzzM62K2GnwSnjujpzcApce0uNJ_Ys=s250",
+      "image_thumbnail_url": "https://lh3.googleusercontent.com/Gpno1jdx7V3E0rSAsNLgNUPqKOM5Hk7gaC65Isjb9jBlrWs-fsxcp-oYhPB8Hv00mAObP54MHNzzM62K2GnwSnjujpzcApce0uNJ_Ys=s128",
+      "image_original_url": "https://ipfs.io/ipfs/Qme5fDzLct52vGuV3PVdCZSgh8xBhsYYy3aQwZiJXHQ54Y/image.gif",
+      "animation_url": "https://storage.opensea.io/files/93bf6b9902768b9a4e5dfa5211fe1344.mp4",
+      "animation_original_url": "https://ipfs.io/ipfs/Qme5fDzLct52vGuV3PVdCZSgh8xBhsYYy3aQwZiJXHQ54Y/animation.mp4",
+      "name": "Unnatural Selection Collectible Card Back",
+      "description": "Alpha Edition Collectible Unnatural Selection Card Back",
+      "external_link": "https://rarible.com/token/0x76be3b62873462d2142405439777e971754e8e77:10478",
+      "asset_contract": {
+        "address": "0x76be3b62873462d2142405439777e971754e8e77",
+        "asset_contract_type": "semi-fungible",
+        "created_date": "2021-02-26T03:34:03.730090",
+        "name": "parallel",
+        "nft_version": null,
+        "opensea_version": null,
+        "owner": 21727865,
+        "schema_name": "ERC1155",
+        "symbol": "LL",
+        "total_supply": null,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "external_link": "http://www.parallel.life",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 1000,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 1250,
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2"
+      },
+      "permalink": "https://opensea.io/assets/0x76be3b62873462d2142405439777e971754e8e77/10478",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/F0z72R7L2uh5wY0LJDdxele-_nWspMcikasWEMRa55mdfi8OmPHU6xy_5X3DRbMTFLQ5X_xQfguKHG3DTrTjdG6U1nkz198gqcgCkUI=s2500",
+        "chat_url": null,
+        "created_date": "2021-03-23T23:07:36.998798",
+        "default_to_fiat": false,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "1000",
+        "discord_url": "https://discord.gg/parallelalpha",
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": "http://www.parallel.life",
+        "featured": false,
+        "featured_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "medium_username": null,
+        "name": "Parallel Alpha",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "require_email": false,
+        "short_description": null,
+        "slug": "parallelalpha",
+        "telegram_url": null,
+        "twitter_username": "parallelnft",
+        "instagram_username": "parallel_nft",
+        "wiki_url": null
+      },
+      "decimals": null,
+      "token_metadata": "https://ipfs.io/ipfs/Qmc5d6uUUvQVTZCuvtxGdzT7zAzcBkLb738LV4GCvsmWpw",
+      "owner": {
+        "user": {
+          "username": "NullAddress"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+        "address": "0x0000000000000000000000000000000000000000",
+        "config": ""
+      },
+      "sell_orders": [
+        {
+          "created_date": "2021-11-12T16:20:39.513801",
+          "closing_date": "2022-05-12T15:20:31",
+          "closing_extendable": false,
+          "expiration_time": 1652368831,
+          "listing_time": 1636733936,
+          "order_hash": "0x669f1b3b8e246fe7e47224dfde40833715e61eb3726da00f362cceee527f2bb7",
+          "metadata": {
+            "asset": {
+              "id": "10478",
+              "address": "0x76be3b62873462d2142405439777e971754e8e77",
+              "quantity": "1"
+            },
+            "schema": "ERC1155"
+          },
+          "exchange": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+          "maker": {
+            "user": 1972882,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/8.png",
+            "address": "0xf14c2b72c7c8821a579a578b098542eba13d8a12",
+            "config": ""
+          },
+          "taker": {
+            "user": 1766,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+            "address": "0x0000000000000000000000000000000000000000",
+            "config": ""
+          },
+          "current_price": "1800000000000000000.000000000",
+          "current_bounty": "18000000000000000",
+          "bounty_multiple": "0.01",
+          "maker_relayer_fee": "1250",
+          "taker_relayer_fee": "0",
+          "maker_protocol_fee": "0",
+          "taker_protocol_fee": "0",
+          "maker_referrer_fee": "0",
+          "fee_recipient": {
+            "user": 3585,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/28.png",
+            "address": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+            "config": "verified"
+          },
+          "fee_method": 1,
+          "side": 1,
+          "sale_kind": 0,
+          "target": "0x76be3b62873462d2142405439777e971754e8e77",
+          "how_to_call": 0,
+          "calldata": "0xf242432a000000000000000000000000f14c2b72c7c8821a579a578b098542eba13d8a12000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000028ee000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000a00000000000000000000000000000000000000000000000000000000000000000",
+          "replacement_pattern": "0x000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+          "static_target": "0x0000000000000000000000000000000000000000",
+          "static_extradata": "0x",
+          "payment_token": "0x0000000000000000000000000000000000000000",
+          "payment_token_contract": {
+            "id": 1,
+            "symbol": "ETH",
+            "address": "0x0000000000000000000000000000000000000000",
+            "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+            "name": "Ether",
+            "decimals": 18,
+            "eth_price": "1.000000000000000",
+            "usd_price": "4648.739999999999782000"
+          },
+          "base_price": "1800000000000000000",
+          "extra": "0",
+          "quantity": "1",
+          "salt": "49964939439284079698465700625125214513726087213464223554958461288304348566425",
+          "v": 28,
+          "r": "0x0029f2eaf54b82f576ba78d6b2f81f8eb8ad04ae9440be6cb9bd487cf66db562",
+          "s": "0x7120d7be59463a18cae13e2f2647518d2b1d3e66590f9a509485feb4c2eb6708",
+          "approved_on_chain": false,
+          "cancelled": false,
+          "finalized": false,
+          "marked_invalid": false,
+          "prefixed_hash": "0xada04501edfb4bcc30d7a389bfdbd638a45e129c5d87bcb3db5803dd30a87561"
+        }
+      ],
+      "creator": {
+        "user": {
+          "username": "Parallel"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/3.png",
+        "address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "config": ""
+      },
+      "traits": [
+        {
+          "trait_type": "Parallel",
+          "value": "Kathari",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 65,
+          "order": null
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Prime",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 66,
+          "order": null
+        },
+        {
+          "trait_type": "Class",
+          "value": "Card Back",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 8,
+          "order": null
+        }
+      ],
+      "last_sale": {
+        "asset": {
+          "token_id": "10478",
+          "decimals": null
+        },
+        "asset_bundle": null,
+        "event_type": "successful",
+        "event_timestamp": "2021-11-10T17:34:41",
+        "auction_type": null,
+        "total_price": "1900000000000000000",
+        "payment_token": {
+          "id": 1,
+          "symbol": "ETH",
+          "address": "0x0000000000000000000000000000000000000000",
+          "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+          "name": "Ether",
+          "decimals": 18,
+          "eth_price": "1.000000000000000",
+          "usd_price": "4648.739999999999782000"
+        },
+        "transaction": {
+          "block_hash": "0xaea8efcf5baebe9e47f57f6a067857e11430a4dfab47f4fde7a4cd13300267a9",
+          "block_number": "13589847",
+          "from_account": {
+            "user": {
+              "username": null
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/8.png",
+            "address": "0x47af52916767f0550aee8035b5b14a1ece2b34f4",
+            "config": ""
+          },
+          "id": 198196506,
+          "timestamp": "2021-11-10T17:34:41",
+          "to_account": {
+            "user": {
+              "username": "OpenSea-Orders"
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/22.png",
+            "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+            "config": "verified"
+          },
+          "transaction_hash": "0x053527927f75fc1f5373b8807ec578263014a3ae260609280d39c2f1b43db3b7",
+          "transaction_index": "99"
+        },
+        "created_date": "2021-11-10T17:35:09.593239",
+        "quantity": "1"
+      },
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null
+    },
+    {
+      "id": 85146279,
+      "token_id": "10477",
+      "num_sales": 34,
+      "background_color": null,
+      "image_url": "https://lh3.googleusercontent.com/6Y-gOO0LStMMzwx0FU924whzVmtmJ-DotPDGR04oKewLJhe0ASlB-myLsTPmL0_JHTk2QR53Cr5nXM_06wPx_A9me9ASIs4uOjIWCg",
+      "image_preview_url": "https://lh3.googleusercontent.com/6Y-gOO0LStMMzwx0FU924whzVmtmJ-DotPDGR04oKewLJhe0ASlB-myLsTPmL0_JHTk2QR53Cr5nXM_06wPx_A9me9ASIs4uOjIWCg=s250",
+      "image_thumbnail_url": "https://lh3.googleusercontent.com/6Y-gOO0LStMMzwx0FU924whzVmtmJ-DotPDGR04oKewLJhe0ASlB-myLsTPmL0_JHTk2QR53Cr5nXM_06wPx_A9me9ASIs4uOjIWCg=s128",
+      "image_original_url": "https://ipfs.io/ipfs/QmdFtwWStm9S3uiwoFtd7PY2gbt59wMdwXyeLds5JjsVFu/image.gif",
+      "animation_url": "https://storage.opensea.io/files/6b3959845a06f5b875b975ad63bf3c07.mp4",
+      "animation_original_url": "https://ipfs.io/ipfs/QmdFtwWStm9S3uiwoFtd7PY2gbt59wMdwXyeLds5JjsVFu/animation.mp4",
+      "name": "Kamuy Mask Collectible Card Back",
+      "description": "Alpha Edition Collectible Kamuy Mask Card Back",
+      "external_link": "https://rarible.com/token/0x76be3b62873462d2142405439777e971754e8e77:10477",
+      "asset_contract": {
+        "address": "0x76be3b62873462d2142405439777e971754e8e77",
+        "asset_contract_type": "semi-fungible",
+        "created_date": "2021-02-26T03:34:03.730090",
+        "name": "parallel",
+        "nft_version": null,
+        "opensea_version": null,
+        "owner": 21727865,
+        "schema_name": "ERC1155",
+        "symbol": "LL",
+        "total_supply": null,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "external_link": "http://www.parallel.life",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 1000,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 1250,
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2"
+      },
+      "permalink": "https://opensea.io/assets/0x76be3b62873462d2142405439777e971754e8e77/10477",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/F0z72R7L2uh5wY0LJDdxele-_nWspMcikasWEMRa55mdfi8OmPHU6xy_5X3DRbMTFLQ5X_xQfguKHG3DTrTjdG6U1nkz198gqcgCkUI=s2500",
+        "chat_url": null,
+        "created_date": "2021-03-23T23:07:36.998798",
+        "default_to_fiat": false,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "1000",
+        "discord_url": "https://discord.gg/parallelalpha",
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": "http://www.parallel.life",
+        "featured": false,
+        "featured_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "medium_username": null,
+        "name": "Parallel Alpha",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "require_email": false,
+        "short_description": null,
+        "slug": "parallelalpha",
+        "telegram_url": null,
+        "twitter_username": "parallelnft",
+        "instagram_username": "parallel_nft",
+        "wiki_url": null
+      },
+      "decimals": null,
+      "token_metadata": "https://ipfs.io/ipfs/QmRaJJQ4pfSsNQRP7bX92L6LmevMp7yVLmRnKZbWuDtMYd",
+      "owner": {
+        "user": {
+          "username": "NullAddress"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+        "address": "0x0000000000000000000000000000000000000000",
+        "config": ""
+      },
+      "sell_orders": [
+        {
+          "created_date": "2021-11-12T18:06:04.172381",
+          "closing_date": "2021-11-15T18:05:44",
+          "closing_extendable": false,
+          "expiration_time": 1636999544,
+          "listing_time": 1636740254,
+          "order_hash": "0x8dad499673992a69fdbac78060ef9149178fbd6786666b7bf8948b667babe268",
+          "metadata": {
+            "asset": {
+              "id": "10477",
+              "address": "0x76be3b62873462d2142405439777e971754e8e77",
+              "quantity": "1"
+            },
+            "schema": "ERC1155"
+          },
+          "exchange": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+          "maker": {
+            "user": 1124373,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/4.png",
+            "address": "0xa3ced3f70dd04873508d903e02c58c47a55579dd",
+            "config": ""
+          },
+          "taker": {
+            "user": 1766,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+            "address": "0x0000000000000000000000000000000000000000",
+            "config": ""
+          },
+          "current_price": "1990000000000000000.000000000",
+          "current_bounty": "19900000000000000",
+          "bounty_multiple": "0.01",
+          "maker_relayer_fee": "1250",
+          "taker_relayer_fee": "0",
+          "maker_protocol_fee": "0",
+          "taker_protocol_fee": "0",
+          "maker_referrer_fee": "0",
+          "fee_recipient": {
+            "user": 3585,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/28.png",
+            "address": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+            "config": "verified"
+          },
+          "fee_method": 1,
+          "side": 1,
+          "sale_kind": 0,
+          "target": "0x76be3b62873462d2142405439777e971754e8e77",
+          "how_to_call": 0,
+          "calldata": "0xf242432a000000000000000000000000a3ced3f70dd04873508d903e02c58c47a55579dd000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000028ed000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000a00000000000000000000000000000000000000000000000000000000000000000",
+          "replacement_pattern": "0x000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+          "static_target": "0x0000000000000000000000000000000000000000",
+          "static_extradata": "0x",
+          "payment_token": "0x0000000000000000000000000000000000000000",
+          "payment_token_contract": {
+            "id": 1,
+            "symbol": "ETH",
+            "address": "0x0000000000000000000000000000000000000000",
+            "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+            "name": "Ether",
+            "decimals": 18,
+            "eth_price": "1.000000000000000",
+            "usd_price": "4648.739999999999782000"
+          },
+          "base_price": "1990000000000000000",
+          "extra": "0",
+          "quantity": "1",
+          "salt": "83767912613984132106316205149437483226283421538713174698486307701448420391662",
+          "v": 28,
+          "r": "0x7fda62e2c5cba69abb03f4ebf79b7bb9ed728581a4f9ac4b9e2b4fa971ae2306",
+          "s": "0x2873c908f2485a3dcc279e0421a2de200d32c2c3eb0eaf920719daea58b7c880",
+          "approved_on_chain": false,
+          "cancelled": false,
+          "finalized": false,
+          "marked_invalid": false,
+          "prefixed_hash": "0xff37c8a81ec0c0529261c38a10d30db24ca53d36e5770bc9d4bd762bed61e770"
+        }
+      ],
+      "creator": {
+        "user": {
+          "username": "Parallel"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/3.png",
+        "address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "config": ""
+      },
+      "traits": [
+        {
+          "trait_type": "Rarity",
+          "value": "Prime",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 66,
+          "order": null
+        },
+        {
+          "trait_type": "Class",
+          "value": "Card Back",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 8,
+          "order": null
+        },
+        {
+          "trait_type": "Parallel",
+          "value": "Earthen",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 72,
+          "order": null
+        }
+      ],
+      "last_sale": {
+        "asset": {
+          "token_id": "10477",
+          "decimals": null
+        },
+        "asset_bundle": null,
+        "event_type": "successful",
+        "event_timestamp": "2021-11-12T06:57:52",
+        "auction_type": null,
+        "total_price": "1950000000000000000",
+        "payment_token": {
+          "id": 1,
+          "symbol": "ETH",
+          "address": "0x0000000000000000000000000000000000000000",
+          "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+          "name": "Ether",
+          "decimals": 18,
+          "eth_price": "1.000000000000000",
+          "usd_price": "4648.739999999999782000"
+        },
+        "transaction": {
+          "block_hash": "0x55541bb31e7969a1b72eab9d13dc95376542ef8367569bd8e2d83518f975fe41",
+          "block_number": "13599840",
+          "from_account": {
+            "user": {
+              "username": "luhluh"
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/33.png",
+            "address": "0xfa51d98393ca70bfcdff555048790e2f00f1a958",
+            "config": ""
+          },
+          "id": 199205400,
+          "timestamp": "2021-11-12T06:57:52",
+          "to_account": {
+            "user": {
+              "username": "OpenSea-Orders"
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/22.png",
+            "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+            "config": "verified"
+          },
+          "transaction_hash": "0x7986e6ecb161347be21dc188f1675c5177caa3d68798b2f3e4e71615078ab6d6",
+          "transaction_index": "138"
+        },
+        "created_date": "2021-11-12T06:58:08.862772",
+        "quantity": "1"
+      },
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null
+    },
+    {
+      "id": 85099133,
+      "token_id": "10476",
+      "num_sales": 23,
+      "background_color": null,
+      "image_url": "https://lh3.googleusercontent.com/2lMc_-3OH88qjNWV4WSW6nOqvzztUhbjHjjDS5rd5_4b5ZU1uXyjvIlOTykPfCrsY51fA_4A23ng8DvECqChpu9rBy3sOE9ubQKD8hI",
+      "image_preview_url": "https://lh3.googleusercontent.com/2lMc_-3OH88qjNWV4WSW6nOqvzztUhbjHjjDS5rd5_4b5ZU1uXyjvIlOTykPfCrsY51fA_4A23ng8DvECqChpu9rBy3sOE9ubQKD8hI=s250",
+      "image_thumbnail_url": "https://lh3.googleusercontent.com/2lMc_-3OH88qjNWV4WSW6nOqvzztUhbjHjjDS5rd5_4b5ZU1uXyjvIlOTykPfCrsY51fA_4A23ng8DvECqChpu9rBy3sOE9ubQKD8hI=s128",
+      "image_original_url": "https://ipfs.io/ipfs/QmdC189ThDNr4SBLLb6q28XbkHMtm4kNZw4EK9nZbuFqr8/image.gif",
+      "animation_url": "https://storage.opensea.io/files/4f55cae860e3fd306f2334edf16c3eb9.mp4",
+      "animation_original_url": "https://ipfs.io/ipfs/QmdC189ThDNr4SBLLb6q28XbkHMtm4kNZw4EK9nZbuFqr8/animation.mp4",
+      "name": "Jury-Rigged Juggernaut Collectible Card Back",
+      "description": "Alpha Edition Collectible Juggernaut Card Back",
+      "external_link": "https://rarible.com/token/0x76be3b62873462d2142405439777e971754e8e77:10476",
+      "asset_contract": {
+        "address": "0x76be3b62873462d2142405439777e971754e8e77",
+        "asset_contract_type": "semi-fungible",
+        "created_date": "2021-02-26T03:34:03.730090",
+        "name": "parallel",
+        "nft_version": null,
+        "opensea_version": null,
+        "owner": 21727865,
+        "schema_name": "ERC1155",
+        "symbol": "LL",
+        "total_supply": null,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "external_link": "http://www.parallel.life",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 1000,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 1250,
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2"
+      },
+      "permalink": "https://opensea.io/assets/0x76be3b62873462d2142405439777e971754e8e77/10476",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/F0z72R7L2uh5wY0LJDdxele-_nWspMcikasWEMRa55mdfi8OmPHU6xy_5X3DRbMTFLQ5X_xQfguKHG3DTrTjdG6U1nkz198gqcgCkUI=s2500",
+        "chat_url": null,
+        "created_date": "2021-03-23T23:07:36.998798",
+        "default_to_fiat": false,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "1000",
+        "discord_url": "https://discord.gg/parallelalpha",
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": "http://www.parallel.life",
+        "featured": false,
+        "featured_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "medium_username": null,
+        "name": "Parallel Alpha",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "require_email": false,
+        "short_description": null,
+        "slug": "parallelalpha",
+        "telegram_url": null,
+        "twitter_username": "parallelnft",
+        "instagram_username": "parallel_nft",
+        "wiki_url": null
+      },
+      "decimals": null,
+      "token_metadata": "https://ipfs.io/ipfs/QmZuJq4RquvpovaBq5nWbXUQuiDAb4uMzt3SFtsJAu8Wta",
+      "owner": {
+        "user": {
+          "username": "NullAddress"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+        "address": "0x0000000000000000000000000000000000000000",
+        "config": ""
+      },
+      "sell_orders": [
+        {
+          "created_date": "2021-11-12T23:07:12.518679",
+          "closing_date": "2022-05-12T22:07:00",
+          "closing_extendable": false,
+          "expiration_time": 1652393220,
+          "listing_time": 1636758325,
+          "order_hash": "0xc204b36731146665224f4afb38ee07c158432bf7adda9d300d048f38c60c6b9a",
+          "metadata": {
+            "asset": {
+              "id": "10476",
+              "address": "0x76be3b62873462d2142405439777e971754e8e77",
+              "quantity": "1"
+            },
+            "schema": "ERC1155"
+          },
+          "exchange": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+          "maker": {
+            "user": 201151,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/4.png",
+            "address": "0xbc0139b7b925cd3aaf818880ff45ed15b077e111",
+            "config": ""
+          },
+          "taker": {
+            "user": 1766,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+            "address": "0x0000000000000000000000000000000000000000",
+            "config": ""
+          },
+          "current_price": "1600000000000000000.000000000",
+          "current_bounty": "16000000000000000",
+          "bounty_multiple": "0.01",
+          "maker_relayer_fee": "1250",
+          "taker_relayer_fee": "0",
+          "maker_protocol_fee": "0",
+          "taker_protocol_fee": "0",
+          "maker_referrer_fee": "0",
+          "fee_recipient": {
+            "user": 3585,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/28.png",
+            "address": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+            "config": "verified"
+          },
+          "fee_method": 1,
+          "side": 1,
+          "sale_kind": 0,
+          "target": "0x76be3b62873462d2142405439777e971754e8e77",
+          "how_to_call": 0,
+          "calldata": "0xf242432a000000000000000000000000bc0139b7b925cd3aaf818880ff45ed15b077e111000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000028ec000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000a00000000000000000000000000000000000000000000000000000000000000000",
+          "replacement_pattern": "0x000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+          "static_target": "0x0000000000000000000000000000000000000000",
+          "static_extradata": "0x",
+          "payment_token": "0x0000000000000000000000000000000000000000",
+          "payment_token_contract": {
+            "id": 1,
+            "symbol": "ETH",
+            "address": "0x0000000000000000000000000000000000000000",
+            "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+            "name": "Ether",
+            "decimals": 18,
+            "eth_price": "1.000000000000000",
+            "usd_price": "4648.739999999999782000"
+          },
+          "base_price": "1600000000000000000",
+          "extra": "0",
+          "quantity": "1",
+          "salt": "76214648653756418622727328876724630236922861651233829605323010675337116922411",
+          "v": 27,
+          "r": "0xaf6103fee1da6e11d3a82d933d123863df024abecdf6541da4216e93e610cb34",
+          "s": "0x2c922fb200c98d99c7601ca01955eb78bd7923151599a63557484c0ac068f2b8",
+          "approved_on_chain": false,
+          "cancelled": false,
+          "finalized": false,
+          "marked_invalid": false,
+          "prefixed_hash": "0x7fa77758bfde3afa87770f6da2ad9e954bae73ac232896b1bad2bc7f45772bb5"
+        }
+      ],
+      "creator": {
+        "user": {
+          "username": "Parallel"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/3.png",
+        "address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "config": ""
+      },
+      "traits": [
+        {
+          "trait_type": "Parallel",
+          "value": "Augencore",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 74,
+          "order": null
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Prime",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 66,
+          "order": null
+        },
+        {
+          "trait_type": "Class",
+          "value": "Card Back",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 8,
+          "order": null
+        }
+      ],
+      "last_sale": {
+        "asset": {
+          "token_id": "10476",
+          "decimals": null
+        },
+        "asset_bundle": null,
+        "event_type": "successful",
+        "event_timestamp": "2021-11-10T17:34:52",
+        "auction_type": null,
+        "total_price": "1750000000000000000",
+        "payment_token": {
+          "id": 1,
+          "symbol": "ETH",
+          "address": "0x0000000000000000000000000000000000000000",
+          "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+          "name": "Ether",
+          "decimals": 18,
+          "eth_price": "1.000000000000000",
+          "usd_price": "4648.739999999999782000"
+        },
+        "transaction": {
+          "block_hash": "0xce60a47467df5f9fb8f112a9dd1344a1ecc7b6a63b69a7853886d3db1d2a9921",
+          "block_number": "13589849",
+          "from_account": {
+            "user": {
+              "username": null
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/8.png",
+            "address": "0x47af52916767f0550aee8035b5b14a1ece2b34f4",
+            "config": ""
+          },
+          "id": 198196601,
+          "timestamp": "2021-11-10T17:34:52",
+          "to_account": {
+            "user": {
+              "username": "OpenSea-Orders"
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/22.png",
+            "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+            "config": "verified"
+          },
+          "transaction_hash": "0x6e105528069550b1f662572013ca2e8ec8102212bf3661c117b7bbb3a777d236",
+          "transaction_index": "67"
+        },
+        "created_date": "2021-11-10T17:35:11.684268",
+        "quantity": "1"
+      },
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null
+    },
+    {
+      "id": 85097675,
+      "token_id": "10475",
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://lh3.googleusercontent.com/m25fmuJwaE1hZ5Gt1thZD-TWI7P72vaO79_FqPNIIY8avriNIg4--5-rDVIT8pk9zhi1x0eeinBjIP4VLVQ0fcPhKoMMgqZzONntnA",
+      "image_preview_url": "https://lh3.googleusercontent.com/m25fmuJwaE1hZ5Gt1thZD-TWI7P72vaO79_FqPNIIY8avriNIg4--5-rDVIT8pk9zhi1x0eeinBjIP4VLVQ0fcPhKoMMgqZzONntnA=s250",
+      "image_thumbnail_url": "https://lh3.googleusercontent.com/m25fmuJwaE1hZ5Gt1thZD-TWI7P72vaO79_FqPNIIY8avriNIg4--5-rDVIT8pk9zhi1x0eeinBjIP4VLVQ0fcPhKoMMgqZzONntnA=s128",
+      "image_original_url": "https://ipfs.io/ipfs/QmeFwHeof2q6c3zPrGZ7TRjLeNmpjNim52MWJzCz7tLBjc/image.gif",
+      "animation_url": "https://storage.opensea.io/files/8f992f7a6d653c106830c24049755816.mp4",
+      "animation_original_url": "https://ipfs.io/ipfs/QmeFwHeof2q6c3zPrGZ7TRjLeNmpjNim52MWJzCz7tLBjc/animation.mp4",
+      "name": "Fluid Dynamics Art Card",
+      "description": "Stay Liquid.",
+      "external_link": "https://rarible.com/token/0x76be3b62873462d2142405439777e971754e8e77:10475",
+      "asset_contract": {
+        "address": "0x76be3b62873462d2142405439777e971754e8e77",
+        "asset_contract_type": "semi-fungible",
+        "created_date": "2021-02-26T03:34:03.730090",
+        "name": "parallel",
+        "nft_version": null,
+        "opensea_version": null,
+        "owner": 21727865,
+        "schema_name": "ERC1155",
+        "symbol": "LL",
+        "total_supply": null,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "external_link": "http://www.parallel.life",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 1000,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 1250,
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2"
+      },
+      "permalink": "https://opensea.io/assets/0x76be3b62873462d2142405439777e971754e8e77/10475",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/F0z72R7L2uh5wY0LJDdxele-_nWspMcikasWEMRa55mdfi8OmPHU6xy_5X3DRbMTFLQ5X_xQfguKHG3DTrTjdG6U1nkz198gqcgCkUI=s2500",
+        "chat_url": null,
+        "created_date": "2021-03-23T23:07:36.998798",
+        "default_to_fiat": false,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "1000",
+        "discord_url": "https://discord.gg/parallelalpha",
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": "http://www.parallel.life",
+        "featured": false,
+        "featured_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "medium_username": null,
+        "name": "Parallel Alpha",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "require_email": false,
+        "short_description": null,
+        "slug": "parallelalpha",
+        "telegram_url": null,
+        "twitter_username": "parallelnft",
+        "instagram_username": "parallel_nft",
+        "wiki_url": null
+      },
+      "decimals": null,
+      "token_metadata": "https://ipfs.io/ipfs/QmcaZwX4FC1ocWQEVPQB1jjR1jM7p71TgbqRJRDTTxjZyp",
+      "owner": {
+        "user": {
+          "username": "NullAddress"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+        "address": "0x0000000000000000000000000000000000000000",
+        "config": ""
+      },
+      "sell_orders": null,
+      "creator": {
+        "user": {
+          "username": "Parallel"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/3.png",
+        "address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "config": ""
+      },
+      "traits": [
+        {
+          "trait_type": "Class",
+          "value": "Art Card",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 10,
+          "order": null
+        },
+        {
+          "trait_type": "Parallel",
+          "value": "Unknown Origins",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 3,
+          "order": null
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Prime",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 66,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null
+    },
+    {
+      "id": 85096204,
+      "token_id": "10473",
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://lh3.googleusercontent.com/jl-F3F2PX7wSyY__f1Sq-Sns478ZANpSilCslwIfKJiOL0T7yODhaoqJqwnchCfwbC9MCL4En6BLKyrdhvVMp7VhZ8RXn7xDwB7MVw",
+      "image_preview_url": "https://lh3.googleusercontent.com/jl-F3F2PX7wSyY__f1Sq-Sns478ZANpSilCslwIfKJiOL0T7yODhaoqJqwnchCfwbC9MCL4En6BLKyrdhvVMp7VhZ8RXn7xDwB7MVw=s250",
+      "image_thumbnail_url": "https://lh3.googleusercontent.com/jl-F3F2PX7wSyY__f1Sq-Sns478ZANpSilCslwIfKJiOL0T7yODhaoqJqwnchCfwbC9MCL4En6BLKyrdhvVMp7VhZ8RXn7xDwB7MVw=s128",
+      "image_original_url": "https://ipfs.io/ipfs/QmdGQpFm1k5NxAvj7VFTL9YLG9BedgHj7F1S9LK8BmPUpT/image.gif",
+      "animation_url": "https://storage.opensea.io/files/fc8d689198d72c89f8f68f172faa70ab.mp4",
+      "animation_original_url": "https://ipfs.io/ipfs/QmdGQpFm1k5NxAvj7VFTL9YLG9BedgHj7F1S9LK8BmPUpT/animation.mp4",
+      "name": "Parallel Masterpiece // Alpha // Seer's Stone",
+      "description": "Parallel Masterpieces - Alpha Set - Universal: Seer's Stone // Art by Oscar Mar // 2021",
+      "external_link": "https://rarible.com/token/0x76be3b62873462d2142405439777e971754e8e77:10473",
+      "asset_contract": {
+        "address": "0x76be3b62873462d2142405439777e971754e8e77",
+        "asset_contract_type": "semi-fungible",
+        "created_date": "2021-02-26T03:34:03.730090",
+        "name": "parallel",
+        "nft_version": null,
+        "opensea_version": null,
+        "owner": 21727865,
+        "schema_name": "ERC1155",
+        "symbol": "LL",
+        "total_supply": null,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "external_link": "http://www.parallel.life",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 1000,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 1250,
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2"
+      },
+      "permalink": "https://opensea.io/assets/0x76be3b62873462d2142405439777e971754e8e77/10473",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/F0z72R7L2uh5wY0LJDdxele-_nWspMcikasWEMRa55mdfi8OmPHU6xy_5X3DRbMTFLQ5X_xQfguKHG3DTrTjdG6U1nkz198gqcgCkUI=s2500",
+        "chat_url": null,
+        "created_date": "2021-03-23T23:07:36.998798",
+        "default_to_fiat": false,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "1000",
+        "discord_url": "https://discord.gg/parallelalpha",
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": "http://www.parallel.life",
+        "featured": false,
+        "featured_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "medium_username": null,
+        "name": "Parallel Alpha",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "require_email": false,
+        "short_description": null,
+        "slug": "parallelalpha",
+        "telegram_url": null,
+        "twitter_username": "parallelnft",
+        "instagram_username": "parallel_nft",
+        "wiki_url": null
+      },
+      "decimals": null,
+      "token_metadata": "https://ipfs.io/ipfs/QmSLKwV4cipnR1Ggpaa9A6U1SJwsYZHJWTay68Rs7Fngv2",
+      "owner": {
+        "user": {
+          "username": "NullAddress"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+        "address": "0x0000000000000000000000000000000000000000",
+        "config": ""
+      },
+      "sell_orders": null,
+      "creator": {
+        "user": {
+          "username": "Parallel"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/3.png",
+        "address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "config": ""
+      },
+      "traits": [
+        {
+          "trait_type": "Rarity",
+          "value": "Prime",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 66,
+          "order": null
+        },
+        {
+          "trait_type": "Class",
+          "value": "Masterpiece",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 47,
+          "order": null
+        },
+        {
+          "trait_type": "Parallel",
+          "value": "Universal",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 83,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null
+    },
+    {
+      "id": 85092008,
+      "token_id": "10472",
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://lh3.googleusercontent.com/Uz4QI3nw1alYhLmvfH4zhBOKzo7iXpyvsfCKYNDmtqx4Tww3J6z0aFeNhI2xwhCag3YQ_NGBuXRlkYW59fx1hws6pcVIq3VBDOz0QQ",
+      "image_preview_url": "https://lh3.googleusercontent.com/Uz4QI3nw1alYhLmvfH4zhBOKzo7iXpyvsfCKYNDmtqx4Tww3J6z0aFeNhI2xwhCag3YQ_NGBuXRlkYW59fx1hws6pcVIq3VBDOz0QQ=s250",
+      "image_thumbnail_url": "https://lh3.googleusercontent.com/Uz4QI3nw1alYhLmvfH4zhBOKzo7iXpyvsfCKYNDmtqx4Tww3J6z0aFeNhI2xwhCag3YQ_NGBuXRlkYW59fx1hws6pcVIq3VBDOz0QQ=s128",
+      "image_original_url": "https://ipfs.io/ipfs/Qmcy64FHCxLpj71hcbaXFdQbFVm9xoyRSPEpsAhiXddfWB/image.gif",
+      "animation_url": "https://storage.opensea.io/files/b3463a7670f55633ef5fef0ee0b3b1e0.mp4",
+      "animation_original_url": "https://ipfs.io/ipfs/Qmcy64FHCxLpj71hcbaXFdQbFVm9xoyRSPEpsAhiXddfWB/animation.mp4",
+      "name": "Parallel Masterpiece // Alpha // Infused Core",
+      "description": "Parallel Masterpieces - Alpha Set - Universal: Infused Core // Art by Oscar Mar // 2021",
+      "external_link": "https://rarible.com/token/0x76be3b62873462d2142405439777e971754e8e77:10472",
+      "asset_contract": {
+        "address": "0x76be3b62873462d2142405439777e971754e8e77",
+        "asset_contract_type": "semi-fungible",
+        "created_date": "2021-02-26T03:34:03.730090",
+        "name": "parallel",
+        "nft_version": null,
+        "opensea_version": null,
+        "owner": 21727865,
+        "schema_name": "ERC1155",
+        "symbol": "LL",
+        "total_supply": null,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "external_link": "http://www.parallel.life",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 1000,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 1250,
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2"
+      },
+      "permalink": "https://opensea.io/assets/0x76be3b62873462d2142405439777e971754e8e77/10472",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/F0z72R7L2uh5wY0LJDdxele-_nWspMcikasWEMRa55mdfi8OmPHU6xy_5X3DRbMTFLQ5X_xQfguKHG3DTrTjdG6U1nkz198gqcgCkUI=s2500",
+        "chat_url": null,
+        "created_date": "2021-03-23T23:07:36.998798",
+        "default_to_fiat": false,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "1000",
+        "discord_url": "https://discord.gg/parallelalpha",
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": "http://www.parallel.life",
+        "featured": false,
+        "featured_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "medium_username": null,
+        "name": "Parallel Alpha",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "require_email": false,
+        "short_description": null,
+        "slug": "parallelalpha",
+        "telegram_url": null,
+        "twitter_username": "parallelnft",
+        "instagram_username": "parallel_nft",
+        "wiki_url": null
+      },
+      "decimals": null,
+      "token_metadata": "https://ipfs.io/ipfs/QmTRh9LMnieDfA91t63zabb4VcX6PjgkzZnTGr4Fm9VVP3",
+      "owner": {
+        "user": {
+          "username": "NullAddress"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+        "address": "0x0000000000000000000000000000000000000000",
+        "config": ""
+      },
+      "sell_orders": null,
+      "creator": {
+        "user": {
+          "username": "Parallel"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/3.png",
+        "address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "config": ""
+      },
+      "traits": [
+        {
+          "trait_type": "Rarity",
+          "value": "Prime",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 66,
+          "order": null
+        },
+        {
+          "trait_type": "Class",
+          "value": "Masterpiece",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 47,
+          "order": null
+        },
+        {
+          "trait_type": "Parallel",
+          "value": "Universal",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 83,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null
+    },
+    {
+      "id": 85090885,
+      "token_id": "10471",
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://lh3.googleusercontent.com/zJpIgB5weHdFrTn6peTeAAptMY6AcCQsV9OZCyVU3FMPP9G2u8stfaj9owO-Zf8CvEoS_E8jgFbbNPevvC3_g2CFKK28a8YU2xsqbg",
+      "image_preview_url": "https://lh3.googleusercontent.com/zJpIgB5weHdFrTn6peTeAAptMY6AcCQsV9OZCyVU3FMPP9G2u8stfaj9owO-Zf8CvEoS_E8jgFbbNPevvC3_g2CFKK28a8YU2xsqbg=s250",
+      "image_thumbnail_url": "https://lh3.googleusercontent.com/zJpIgB5weHdFrTn6peTeAAptMY6AcCQsV9OZCyVU3FMPP9G2u8stfaj9owO-Zf8CvEoS_E8jgFbbNPevvC3_g2CFKK28a8YU2xsqbg=s128",
+      "image_original_url": "https://ipfs.io/ipfs/QmevJhk3QpuAuSx7X1N7JkYFbYpqo83fmmCAfsqSba7TwM/image.gif",
+      "animation_url": "https://storage.opensea.io/files/2a38e855bfa28152aca44cd77972e80f.mp4",
+      "animation_original_url": "https://ipfs.io/ipfs/QmevJhk3QpuAuSx7X1N7JkYFbYpqo83fmmCAfsqSba7TwM/animation.mp4",
+      "name": "Parallel Masterpiece // Alpha // EMP Shockwave",
+      "description": "Parallel Masterpieces - Alpha Set - Universal: EMP Shockwave // Art by Oscar Mar // 2021",
+      "external_link": "https://rarible.com/token/0x76be3b62873462d2142405439777e971754e8e77:10471",
+      "asset_contract": {
+        "address": "0x76be3b62873462d2142405439777e971754e8e77",
+        "asset_contract_type": "semi-fungible",
+        "created_date": "2021-02-26T03:34:03.730090",
+        "name": "parallel",
+        "nft_version": null,
+        "opensea_version": null,
+        "owner": 21727865,
+        "schema_name": "ERC1155",
+        "symbol": "LL",
+        "total_supply": null,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "external_link": "http://www.parallel.life",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 1000,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 1250,
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2"
+      },
+      "permalink": "https://opensea.io/assets/0x76be3b62873462d2142405439777e971754e8e77/10471",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/F0z72R7L2uh5wY0LJDdxele-_nWspMcikasWEMRa55mdfi8OmPHU6xy_5X3DRbMTFLQ5X_xQfguKHG3DTrTjdG6U1nkz198gqcgCkUI=s2500",
+        "chat_url": null,
+        "created_date": "2021-03-23T23:07:36.998798",
+        "default_to_fiat": false,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "1000",
+        "discord_url": "https://discord.gg/parallelalpha",
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": "http://www.parallel.life",
+        "featured": false,
+        "featured_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "medium_username": null,
+        "name": "Parallel Alpha",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "require_email": false,
+        "short_description": null,
+        "slug": "parallelalpha",
+        "telegram_url": null,
+        "twitter_username": "parallelnft",
+        "instagram_username": "parallel_nft",
+        "wiki_url": null
+      },
+      "decimals": null,
+      "token_metadata": "https://ipfs.io/ipfs/QmRSa9jupnMW9de2baRLFFjqQpnwYVekJnS5t2LRJrFojD",
+      "owner": {
+        "user": {
+          "username": "NullAddress"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+        "address": "0x0000000000000000000000000000000000000000",
+        "config": ""
+      },
+      "sell_orders": null,
+      "creator": {
+        "user": {
+          "username": "Parallel"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/3.png",
+        "address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "config": ""
+      },
+      "traits": [
+        {
+          "trait_type": "Rarity",
+          "value": "Prime",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 66,
+          "order": null
+        },
+        {
+          "trait_type": "Class",
+          "value": "Masterpiece",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 47,
+          "order": null
+        },
+        {
+          "trait_type": "Parallel",
+          "value": "Universal",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 83,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null
+    },
+    {
+      "id": 85085755,
+      "token_id": "10470",
+      "num_sales": 0,
+      "background_color": null,
+      "image_url": "https://lh3.googleusercontent.com/RDxcXJDMoux2U3U3D4KZhkYPhzj3v4YO_3UA2vy0g0CS4Gtd38LPQ0g5Qq0Lt3EfvUX5ZtLYj8ijpiCV9Df3J2ky8gwkE7-9F2ww",
+      "image_preview_url": "https://lh3.googleusercontent.com/RDxcXJDMoux2U3U3D4KZhkYPhzj3v4YO_3UA2vy0g0CS4Gtd38LPQ0g5Qq0Lt3EfvUX5ZtLYj8ijpiCV9Df3J2ky8gwkE7-9F2ww=s250",
+      "image_thumbnail_url": "https://lh3.googleusercontent.com/RDxcXJDMoux2U3U3D4KZhkYPhzj3v4YO_3UA2vy0g0CS4Gtd38LPQ0g5Qq0Lt3EfvUX5ZtLYj8ijpiCV9Df3J2ky8gwkE7-9F2ww=s128",
+      "image_original_url": "https://ipfs.io/ipfs/Qme2BSvhvBZkGQqrfXqLcCMn6489Mw4GYneL3CLX9fKVwo/image.gif",
+      "animation_url": "https://storage.opensea.io/files/06f59dc20746eac894bf612b18699169.mp4",
+      "animation_original_url": "https://ipfs.io/ipfs/Qme2BSvhvBZkGQqrfXqLcCMn6489Mw4GYneL3CLX9fKVwo/animation.mp4",
+      "name": "Parallel Masterpiece // Alpha // The Staff of Shoshanna",
+      "description": "Parallel Masterpieces - Alpha Set - Earthen: The Staff of Shoshanna // Art by Oscar Mar // 2021",
+      "external_link": "https://rarible.com/token/0x76be3b62873462d2142405439777e971754e8e77:10470",
+      "asset_contract": {
+        "address": "0x76be3b62873462d2142405439777e971754e8e77",
+        "asset_contract_type": "semi-fungible",
+        "created_date": "2021-02-26T03:34:03.730090",
+        "name": "parallel",
+        "nft_version": null,
+        "opensea_version": null,
+        "owner": 21727865,
+        "schema_name": "ERC1155",
+        "symbol": "LL",
+        "total_supply": null,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "external_link": "http://www.parallel.life",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "default_to_fiat": false,
+        "dev_buyer_fee_basis_points": 0,
+        "dev_seller_fee_basis_points": 1000,
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": 0,
+        "opensea_seller_fee_basis_points": 250,
+        "buyer_fee_basis_points": 0,
+        "seller_fee_basis_points": 1250,
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2"
+      },
+      "permalink": "https://opensea.io/assets/0x76be3b62873462d2142405439777e971754e8e77/10470",
+      "collection": {
+        "banner_image_url": "https://lh3.googleusercontent.com/F0z72R7L2uh5wY0LJDdxele-_nWspMcikasWEMRa55mdfi8OmPHU6xy_5X3DRbMTFLQ5X_xQfguKHG3DTrTjdG6U1nkz198gqcgCkUI=s2500",
+        "chat_url": null,
+        "created_date": "2021-03-23T23:07:36.998798",
+        "default_to_fiat": false,
+        "description": "Sci-fi collectable card game with NFTs.",
+        "dev_buyer_fee_basis_points": "0",
+        "dev_seller_fee_basis_points": "1000",
+        "discord_url": "https://discord.gg/parallelalpha",
+        "display_data": {
+          "card_display_style": "contain"
+        },
+        "external_url": "http://www.parallel.life",
+        "featured": false,
+        "featured_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "hidden": false,
+        "safelist_request_status": "verified",
+        "image_url": "https://lh3.googleusercontent.com/nxaymgd9aJIzLXb0r3oLO0VCMFi0Zex1ubTmEYekEKwOVq1YijOULDeT1qCjk71OTsQW47zmvZ2ZuycXorgu6WA6Wosc6CiOuVnAXGk=s120",
+        "is_subject_to_whitelist": false,
+        "large_image_url": "https://lh3.googleusercontent.com/VLBlCqeKsr9T24pHX63WZ-flQo-RbZwCpeWsV_hVgUT29CfnMXxqqP8nTzclZgPaKjiveHLIHdfNAEdmFI2myzGiCwtuQEanDP1yIQ=s300",
+        "medium_username": null,
+        "name": "Parallel Alpha",
+        "only_proxied_transfers": false,
+        "opensea_buyer_fee_basis_points": "0",
+        "opensea_seller_fee_basis_points": "250",
+        "payout_address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "require_email": false,
+        "short_description": null,
+        "slug": "parallelalpha",
+        "telegram_url": null,
+        "twitter_username": "parallelnft",
+        "instagram_username": "parallel_nft",
+        "wiki_url": null
+      },
+      "decimals": null,
+      "token_metadata": "https://ipfs.io/ipfs/QmZBHuQgXa1RqeqpDWUs7pyymrURGTqsdn7bcTA1u6Y96J",
+      "owner": {
+        "user": {
+          "username": "NullAddress"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+        "address": "0x0000000000000000000000000000000000000000",
+        "config": ""
+      },
+      "sell_orders": [
+        {
+          "created_date": "2021-11-02T11:17:45.886049",
+          "closing_date": "2022-05-02T11:14:34",
+          "closing_extendable": false,
+          "expiration_time": 1651490074,
+          "listing_time": 1635851648,
+          "order_hash": "0xe6567a5170f5ba77ca7a6dabeb67ed1e7f228344a7078a2cb30dffc4470ae121",
+          "metadata": {
+            "asset": {
+              "id": "10470",
+              "address": "0x76be3b62873462d2142405439777e971754e8e77",
+              "quantity": "1"
+            },
+            "schema": "ERC1155"
+          },
+          "exchange": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+          "maker": {
+            "user": 1599138,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/31.png",
+            "address": "0xe194091e88df25f7fdc72e9ab4863e8f5d53a621",
+            "config": ""
+          },
+          "taker": {
+            "user": 1766,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+            "address": "0x0000000000000000000000000000000000000000",
+            "config": ""
+          },
+          "current_price": "350000000000000000000.0000000",
+          "current_bounty": "3500000000000000000",
+          "bounty_multiple": "0.01",
+          "maker_relayer_fee": "1250",
+          "taker_relayer_fee": "0",
+          "maker_protocol_fee": "0",
+          "taker_protocol_fee": "0",
+          "maker_referrer_fee": "0",
+          "fee_recipient": {
+            "user": 3585,
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/28.png",
+            "address": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+            "config": "verified"
+          },
+          "fee_method": 1,
+          "side": 1,
+          "sale_kind": 0,
+          "target": "0x76be3b62873462d2142405439777e971754e8e77",
+          "how_to_call": 0,
+          "calldata": "0xf242432a000000000000000000000000e194091e88df25f7fdc72e9ab4863e8f5d53a621000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000028e6000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000a00000000000000000000000000000000000000000000000000000000000000000",
+          "replacement_pattern": "0x000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+          "static_target": "0x0000000000000000000000000000000000000000",
+          "static_extradata": "0x",
+          "payment_token": "0x0000000000000000000000000000000000000000",
+          "payment_token_contract": {
+            "id": 1,
+            "symbol": "ETH",
+            "address": "0x0000000000000000000000000000000000000000",
+            "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+            "name": "Ether",
+            "decimals": 18,
+            "eth_price": "1.000000000000000",
+            "usd_price": "4648.739999999999782000"
+          },
+          "base_price": "350000000000000000000",
+          "extra": "0",
+          "quantity": "1",
+          "salt": "42228342647460818529344732466346179017886029798478560866509707129703521812996",
+          "v": 27,
+          "r": "0x8d2d9140680b86ede0f5583b8fa6f64dd52aab9971dbd36b8dee53072296f0be",
+          "s": "0x1d335f6c34d88bf76bd21ee3853e447c64681826f818be85186e34220e56cf8a",
+          "approved_on_chain": false,
+          "cancelled": false,
+          "finalized": false,
+          "marked_invalid": false,
+          "prefixed_hash": "0x23da6934c7755f3772c1147ac40d27c27b0f48469773abc2e1456d94391a3456"
+        }
+      ],
+      "creator": {
+        "user": {
+          "username": "Parallel"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/3.png",
+        "address": "0x74db0bbfde94aa80a135c5f8b60c0ca3d17332f2",
+        "config": ""
+      },
+      "traits": [
+        {
+          "trait_type": "Rarity",
+          "value": "Prime",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 66,
+          "order": null
+        },
+        {
+          "trait_type": "Class",
+          "value": "Masterpiece",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 47,
+          "order": null
+        },
+        {
+          "trait_type": "Parallel",
+          "value": "Earthen",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 72,
+          "order": null
+        }
+      ],
+      "last_sale": null,
+      "top_bid": null,
+      "listing_date": null,
+      "is_presale": false,
+      "transfer_fee_payment_token": null,
+      "transfer_fee": null
+    }
+}
